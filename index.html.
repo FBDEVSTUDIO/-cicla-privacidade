@@ -1,1 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidade — Cicla</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #fff5f8; color: #333; }
+    .container { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+    .header { text-align: center; margin-bottom: 40px; padding: 40px; background: #c2185b; border-radius: 16px; }
+    .header h1 { font-size: 32px; color: #fff; margin-bottom: 8px; }
+    .header p { color: #ffcdd2; font-size: 14px; }
+    .secao { background: #fff; border-radius: 16px; padding: 24px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+    .secao h2 { color: #c2185b; font-size: 18px; margin-bottom: 12px; }
+    .secao p { color: #555; line-height: 1.7; font-size: 15px; margin-bottom: 8px; }
+    .secao ul { color: #555; line-height: 1.7; font-size: 15px; padding-left: 20px; }
+    .secao ul li { margin-bottom: 6px; }
+    .footer { text-align: center; padding: 24px; color: #888; font-size: 13px; }
+    .badge { display: inline-block; background: #fce4ec; color: #c2185b; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; margin-bottom: 16px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🌸 Cicla</h1>
+      <p>Política de Privacidade</p>
+    </div>
 
+    <div class="secao">
+      <span class="badge">Atualizado em abril de 2026</span>
+      <h2>Introdução</h2>
+      <p>O Cicla — Saúde Feminina ("nós", "nosso" ou "app") está comprometido em proteger sua privacidade. Esta Política de Privacidade explica como coletamos, usamos e protegemos suas informações pessoais quando você usa nosso aplicativo.</p>
+      <p>Ao usar o Cicla, você concorda com a coleta e uso de informações de acordo com esta política.</p>
+    </div>
+
+    <div class="secao">
+      <h2>1. Informações que Coletamos</h2>
+      <p>Coletamos apenas as informações que você fornece voluntariamente:</p>
+      <ul>
+        <li>Nome e endereço de email (para criação de conta)</li>
+        <li>Data do último ciclo menstrual</li>
+        <li>Duração do ciclo e da menstruação</li>
+        <li>Registros diários de humor, energia e sintomas</li>
+        <li>Registros de atividade sexual (opcionais)</li>
+      </ul>
+    </div>
+
+    <div class="secao">
+      <h2>2. Como Usamos suas Informações</h2>
+      <p>Usamos suas informações exclusivamente para:</p>
+      <ul>
+        <li>Calcular e prever seu ciclo menstrual</li>
+        <li>Personalizar dicas e conteúdos por fase do ciclo</li>
+        <li>Gerar insights sobre seus padrões de saúde</li>
+        <li>Enviar notificações de lembrete (se ativadas)</li>
+        <li>Sincronizar seus dados entre dispositivos</li>
+      </ul>
+    </div>
+
+    <div class="secao">
+      <h2>3. Armazenamento e Segurança</h2>
+      <p>Seus dados são armazenados de forma segura usando o Firebase (Google Cloud Platform), que utiliza criptografia de ponta a ponta para proteger suas informações.</p>
+      <p>Adotamos medidas técnicas e organizacionais adequadas para proteger seus dados contra acesso não autorizado, alteração, divulgação ou destruição.</p>
+    </div>
+
+    <div class="secao">
+      <h2>4. Compartilhamento de Dados</h2>
+      <p><strong>O Cicla NUNCA vende, aluga ou compartilha seus dados pessoais com terceiros.</strong></p>
+      <p>Suas informações de saúde são completamente privadas e utilizadas apenas para o funcionamento do app.</p>
+    </div>
+
+    <div class="secao">
+      <h2>5. Seus Direitos</h2>
+      <p>Você tem total controle sobre seus dados:</p>
+      <ul>
+        <li>Acessar todos os seus dados a qualquer momento</li>
+        <li>Editar suas informações de perfil</li>
+        <li>Apagar registros individuais pelo histórico</li>
+        <li>Apagar todos os seus dados e conta pelo Perfil</li>
+        <li>Exportar seus dados mediante solicitação</li>
+      </ul>
+    </div>
+
+    <div class="secao">
+      <h2>6. Dados de Menores</h2>
+      <p>O Cicla é destinado a usuárias maiores de 18 anos. Não coletamos intencionalmente informações de menores de idade. Se você acredita que uma menor forneceu dados ao app, entre em contato conosco para remoção imediata.</p>
+    </div>
+
+    <div class="secao">
+      <h2>7. Notificações</h2>
+      <p>O app pode enviar notificações push com lembretes do ciclo menstrual. Você pode desativar as notificações a qualquer momento nas configurações do app ou do seu dispositivo.</p>
+    </div>
+
+    <div class="secao">
+      <h2>8. Alterações nesta Política</h2>
+      <p>Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos você sobre mudanças significativas através do app. O uso continuado do Cicla após as alterações constitui aceitação da nova política.</p>
+    </div>
+
+    <div class="secao">
+      <h2>9. Aviso Médico</h2>
+      <p>O Cicla é um app de acompanhamento do ciclo menstrual e <strong>não substitui consultas médicas</strong>. As previsões são baseadas em médias estatísticas e podem variar. Sempre consulte um ginecologista para questões de saúde.</p>
+    </div>
+
+    <div class="secao">
+      <h2>10. Contato</h2>
+      <p>Para dúvidas sobre esta política ou sobre seus dados:</p>
+      <ul>
+        <li>Email: privacidade@ciclaapp.com.br</li>
+        <li>App: Cicla — Saúde Feminina</li>
+      </ul>
+    </div>
+
+    <div class="footer">
+      <p>© 2026 Cicla — Saúde Feminina. Todos os direitos reservados.</p>
+      <p style="margin-top: 8px;">Esta política está em conformidade com a LGPD (Lei Geral de Proteção de Dados)</p>
+    </div>
+  </div>
+</body>
+</html>
